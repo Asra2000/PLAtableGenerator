@@ -187,7 +187,7 @@ class Scratch {
         }
     }
     //////////////////////////////////////////////////////////////////
-    //---function to change decimal to binary
+    //---function to change decimal to binary number
     String binary(int a)
     {
         String s="";int d,c=0;
